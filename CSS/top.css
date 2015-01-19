@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+p {font-size:20pt;font-style:italic;font-weight:bold;color:white;position:absolute;top:30px;left:50px;}
+a.one {color:maroon;text-decoration:none;}
+a.two {color:white;font-size:13pt;font-weight:bold;text-decoration:none;}
+p.one{font-family:Comic Sans MS;font-size:28pt;font-style:italic;font-weight:bold;color:white;position:absolute;top:0px;left:80%;}
+#two {position:absolute;top:15%;right:25%;left:0.75%;bottom:0%;background-color:#FFCCFF;}
+#one {position:absolute;right:0.75%;left:75%;top:15%;bottom:0%;background-color:pink;width:100;}
+h4 {font-family:Calibri;font-size:13pt;color:maroon}
+li {list-style-type:none;}
+caption {font-weight:bold;font-size:16pt;color:maroon;}
+#three{background-color:pink;position:absolute;left:35%;right:40%;top:30%;width:35%;height:35%}
+td {color:maroon;}
+th{color:maroon;}
